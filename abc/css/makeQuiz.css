@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 28, 2021, 6:22:34 PM
+    Author     : ADMIN
+*/
+
+.makeQuestion{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.noti{
+    padding-bottom: 20px;
+    padding-left: 75px;
+    color:red;
+}
+.textQuestion{
+    width: 400px;
+}
+.inputCheck{
+    margin-left: 9px;
+    margin-right: 7px;
+}
+.padingQ{
+    padding-right: 17px;
+}
+.addOption{
+    padding-right: 25px;
+}
+.submit{
+    padding-top: 5px;
+    padding-left: 80px;
+    padding-bottom: 40px;
+}
+.warningMakeQuiz{
+    padding-top: 20px;
+    color: red;
+}
+.btn-save{
+    font-size: 16px;
+    color: black;
+    padding: 3px 6px;
+    font-weight: bold;
+}
